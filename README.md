@@ -1,4 +1,8 @@
-### Hi there 👋
+### Come on in, take a seat
+
+<img src="/assets/top_banner_house.png" alt="house with a computer on a table with two seats"/>
+
+
 
 <!--
 **julian-ornelas/julian-ornelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
